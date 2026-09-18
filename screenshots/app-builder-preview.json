@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Grovewell",
+      "hasCanvas": false,
+      "bodyTextLen": 2268,
+      "bodyTextHash": "88e0e3ec8d03570db49b9e517d03735b5ae047d60a628aeb08fcc2f57fabcecc",
+      "bodyTextPrefix": "Grovewell Home Listings Residences About Get started Private for",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Grovewell",
+      "hasCanvas": false,
+      "bodyTextLen": 2179,
+      "bodyTextHash": "591ff8fc5d51c3cfeff8c492e69d3266e5d6c81b7b1aad22473d894379a9d6b6",
+      "bodyTextPrefix": "Grovewell Private forest homes Find eco-friendly homes easily Ti",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
